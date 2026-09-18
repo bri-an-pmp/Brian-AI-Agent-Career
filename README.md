@@ -1,6 +1,6 @@
 # Brian AI Agent Career
 
-An AI-powered chatbot that represents my career background, skills, and experience; all built with Gradio, OpenAI, and grounded on a resume and career summary. Visitors can chat with "Brian" to learn about his professional background, and the agent records unanswered questions and visitor contact details for follow-up.
+An AI-powered chatbot that represents my career background, skills, and experience; all built with Gradio, OpenAI, and grounded on a resume and career summary. Visitors can chat with "Brian Athey" to learn about my professional background, and the agent records unanswered questions and visitor contact details for follow-up.
 
 ## Live Demo
 
