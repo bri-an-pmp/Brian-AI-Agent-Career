@@ -23,7 +23,7 @@ Please report security issues privately through GitHub: **Security → Report a 
 | Credential files ever committed (`.env`, `*.pem`, `*.key`, `id_rsa`, credentials) | ✅ None found |
 | GitHub secret-scanning alerts | ✅ 0 open alerts |
 | `.env` excluded from Git | ✅ Listed in `.gitignore`; never committed |
-| Personal data in documents | ⚠️ Found and fixed: `me/Athey_Brian_Resume.pdf` contained a phone number, personal email and internal employer figures. Replaced on 2026-10-16 with the public version (no contact details or confidential figures). Earlier commits still contain the old file until history is rewritten. |
+| Personal data in documents | ✅ Resolved on 2026-10-16: `me/Athey_Brian_Resume.pdf` contained a phone number, personal email and internal employer figures; it was replaced with a public version in the current files **and throughout the Git history** |
 | Python dependency audit | ⚠️ Not meaningful yet: `requirements.txt` is unpinned. Dependabot alerts are enabled; pinning versions would allow a precise audit. |
 
 ## Not covered
